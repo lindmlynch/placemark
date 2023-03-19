@@ -1,0 +1,31 @@
+{
+  "points": [
+    {
+      "name": "Fenit",
+      "description": "Tralee to Fenit",
+      "latitude": 52.2784,
+      "longitude": -9.8612,
+      "weather": "overcast clouds",
+      "_id": "fdaff141-7a3e-4906-b761-95776df49bd8",
+      "placemarkid": "b08a89f1-5666-4647-a6f5-ccc3d20fc2af"
+    },
+    {
+      "name": "a",
+      "description": "b",
+      "latitude": -36.848461,
+      "longitude": 174.763336,
+      "weather": "few clouds",
+      "_id": "27bab9b1-0f32-4401-9959-aef161a99404",
+      "placemarkid": "b08a89f1-5666-4647-a6f5-ccc3d20fc2af"
+    },
+    {
+      "name": "Fenit",
+      "description": "Tralee to Fenit",
+      "latitude": 52.2784,
+      "longitude": -9.8612,
+      "weather": "overcast clouds",
+      "_id": "5c48fe48-9e70-4da0-baab-b353044ff901",
+      "placemarkid": "a73e2388-c8c2-48a2-aa47-e3427e10dfcb"
+    }
+  ]
+}
