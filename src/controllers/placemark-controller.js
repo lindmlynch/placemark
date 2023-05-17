@@ -1,6 +1,7 @@
 import axios from "axios";
 import { db } from "../models/db.js";
 import { PointSpec } from "../models/joi-schemas.js";
+import { imageStore } from "../models/image-store.js";
 
 export const placemarkController = {
   index: {
